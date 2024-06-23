@@ -18,4 +18,9 @@ Para executar:
 
 ```python twitter_downloader.py```
 
+ou
+
+
+```python3 twitter_downloader.py```
+
 Os downloads serão armazenados na pasta 'videos_baixados', no mesmo diretório onde se encontra o script.
