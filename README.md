@@ -1,4 +1,5 @@
-# Script Python para download de videos (especificamente Twitter(X))
+# Script Python para download de videos 
+## especificamente Twitter (X)
 
 Dependências necessárias:
 - ```Tkinter```
@@ -14,6 +15,7 @@ Para o yt-dlp:
 ```pip install yt-dlp```
 
 Para executar:
+
 ```python twitter_downloader.py```
 
 Os downloads serão armazenados na pasta 'videos_baixados', no mesmo diretório onde se encontra o script.
